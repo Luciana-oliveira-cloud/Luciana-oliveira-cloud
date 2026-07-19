@@ -1,6 +1,7 @@
 ## Oláá! Eu sou a Luciana Oliveira! 
 
 Profissional certificada em AWS Certified Cloud Practitioner, desenvolvendo minha trajetória em tecnologia com foco em Cloud Computing, infraestrutura e soluções em nuvem.
+Conecte-se comigo no LinkedIn para acompanhar minha evolução, projetos e a jornada rumo à certificação AWS Certified Developer – Associate.
 
 
 
