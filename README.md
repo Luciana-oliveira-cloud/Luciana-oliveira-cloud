@@ -36,5 +36,8 @@ Atualmente estou me preparando para a certificação AWS Certified Developer –
 <img align="center" alt="AWS Certified Cloud Practitioner" height="35" width="35" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 </a>
 
+## 🐍 GitHub Contributions
+
+![Snake animation](https://raw.githubusercontent.com/Luciana-oliveira-cloud/Luciana-oliveira-cloud/output/github-contribution-grid-snake.svg)
 
 </div>
