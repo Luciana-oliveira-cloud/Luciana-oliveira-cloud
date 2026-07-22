@@ -17,18 +17,23 @@ Atualmente estou me preparando para a certificação AWS Certified Developer –
 <h3>📫 Vamos nos conectar</h3>
 
 <a href="https://linkedin.com/in/luciana-paulino-de-oliveira-cloud" target="_blank">
-<img align="center" alt="Luciana-LinkedIn" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  <img align="center" alt="LinkedIn" height="35" width="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
 <a href="https://github.com/Luciana-oliveira-cloud" target="_blank">
-<img align="center" alt="Luciana-GitHub" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="GitHub" height="35" width="35"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 
-<a href="mailto:SEUEMAIL@EMAIL.COM">
-<img align="center" alt="Email" height="35" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+<a href="mailto:SEU_EMAIL@gmail.com">
+  <img align="center" alt="Email" height="35" width="35"
+  src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+<a href="https://github.com/Luciana-oliveira-cloud/curriculo/blob/main/Luciana_Paulino_de_Oliveira_Resume.pdf" target="_blank">
+  <img align="center" alt="Currículo" height="35" width="35"
+  src="https://img.icons8.com/color/48/resume.png"/>
 </a>
 
 </div>
