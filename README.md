@@ -14,26 +14,27 @@ Atualmente estou me preparando para a certificação AWS Certified Developer –
  
 <div> 
 
-<h3>📫 Vamos nos conectar</h3>
+## 📫 Vamos nos conectar
 
 <a href="https://linkedin.com/in/luciana-paulino-de-oliveira-cloud" target="_blank">
-  <img align="center" alt="LinkedIn" height="35" width="35"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+<img align="center" alt="LinkedIn" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
 <a href="https://github.com/Luciana-oliveira-cloud" target="_blank">
-  <img align="center" alt="GitHub" height="35" width="35"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="center" alt="GitHub" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img align="center" alt="Email" height="35" width="35"
-  src="https://img.icons8.com/color/48/gmail-new.png"/>
+<a href="mailto:SEUEMAIL@gmail.com">
+<img align="center" alt="Email" height="35" width="35" src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
 <a href="https://github.com/Luciana-oliveira-cloud/curriculo/blob/main/Luciana_Paulino_de_Oliveira_Resume.pdf" target="_blank">
-  <img align="center" alt="Currículo" height="35" width="35"
-  src="https://img.icons8.com/color/48/resume.png"/>
+<img align="center" alt="Currículo" height="35" width="35" src="https://img.icons8.com/color/48/resume.png"/>
 </a>
+
+<a href="https://www.credly.com/earner/earned/share/ce2be866-1641-4a8d-8aab-be4c1637c926" target="_blank">
+<img align="center" alt="AWS Certified Cloud Practitioner" height="35" width="35" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+</a>
+
 
 </div>
