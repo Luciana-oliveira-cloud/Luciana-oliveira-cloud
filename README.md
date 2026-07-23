@@ -6,13 +6,26 @@ Sou AWS Certified Cloud Practitioner e estudante de Pós-graduação em Computa�
 
 Atualmente estou me preparando para a certificação AWS Certified Developer – Associate e busco minha primeira oportunidade como Cloud Engineer.
 
+---
 
+## ☁️ AWS Cloud Labs
 
-<img src="https://skillicons.dev/icons?i=aws" height="45"/> <img src="https://skillicons.dev/icons?i=linux" height="45"/> <img src="https://skillicons.dev/icons?i=angular" height="45"/> <img src="https://skillicons.dev/icons?i=dotnet" height="45"/> <img src="https://skillicons.dev/icons?i=java" height="45"/> <img src="https://skillicons.dev/icons?i=git" height="45"/> <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  
-  ##
+### 📩 AWS SNS + SQS + Dead Letter Queue (DLQ)
+
+Laboratório prático de arquitetura de mensageria assíncrona utilizando Amazon SNS, Amazon SQS e Dead Letter Queue (DLQ).
+
+🔗 [Acessar laboratório](https://github.com/Luciana-oliveira-cloud/aws-lab-sns-sqs-dlq)
  
+---
+ 
+
+
+  ## 🛠️ Tecnologias e Ferramentas
+ <img src="https://skillicons.dev/icons?i=aws" height="45"/> <img src="https://skillicons.dev/icons?i=linux" height="45"/> <img src="https://skillicons.dev/icons?i=angular" height="45"/> <img src="https://skillicons.dev/icons?i=dotnet" height="45"/> <img src="https://skillicons.dev/icons?i=java" height="45"/> <img src="https://skillicons.dev/icons?i=git" height="45"/> <img src="https://skillicons.dev/icons?i=github" height="45"/>
 <div> 
+ 
+---
+ 
 
 ## 📫 Vamos nos conectar
 
@@ -35,7 +48,9 @@ Atualmente estou me preparando para a certificação AWS Certified Developer –
 <a href="https://www.credly.com/earner/earned/share/ce2be866-1641-4a8d-8aab-be4c1637c926" target="_blank">
 <img align="center" alt="AWS Certified Cloud Practitioner" height="35" width="35" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 </a>
-
+ 
+---
+ 
 ## 🐍 GitHub Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/Luciana-oliveira-cloud/Luciana-oliveira-cloud/output/github-contribution-grid-snake.svg)
