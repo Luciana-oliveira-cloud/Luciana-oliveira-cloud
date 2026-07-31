@@ -8,6 +8,17 @@ Atualmente estou me preparando para a certificação AWS Certified Developer –
 
 ---
 
+## 🚀 Projetos
+
+## ☁️ AWS Cloud Labs
+
+### 🚀 AWS Lambda com Aliases e API Gateway Stages
+
+Laboratório prático de arquitetura serverless utilizando AWS Lambda Versions, Lambda Aliases e Amazon API Gateway Stages para gerenciamento de ambientes Dev e Prod.
+
+🔗 [Acessar laboratório](https://github.com/Luciana-oliveira-cloud/aws-lab-lambda-aliases-api-gateway-stages)
+
+---
 ## ☁️ AWS Cloud Labs
 
 ### 📩 AWS SNS + SQS + Dead Letter Queue (DLQ)
