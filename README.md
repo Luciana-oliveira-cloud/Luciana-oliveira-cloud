@@ -2,9 +2,9 @@
 
 Cloud Computing | AWS | Infraestrutura | Python
 
-Sou AWS Certified Cloud Practitioner e estudante de Pós-graduação em Computação em Nuvem. Desenvolvo projetos práticos em AWS com foco em infraestrutura, automação e arquitetura em nuvem utilizando EC2, IAM, VPC, S3, Lambda e CloudWatch.
+Profissional com certificação AWS Certified Cloud Practitioner e pós-graduação em Computação em Nuvem em andamento. Desenvolvo projetos práticos em AWS com foco em infraestrutura, automação e arquitetura em nuvem utilizando EC2, IAM, VPC, S3, Lambda e CloudWatch.
 
-Atualmente estou me preparando para a certificação AWS Certified Developer – Associate e busco minha primeira oportunidade como Cloud Engineer.
+Atualmente, em preparação para a certificação AWS Certified Developer – Associate, com objetivo de atuar como Cloud Engineer, contribuindo para projetos de infraestrutura, automação e soluções em ambientes de computação em nuvem.
 
 ---
 
